@@ -28,4 +28,27 @@ Here’s how you can get started:
 7. **Create a pull request to merge your changes into the main repository.**
 
 ## Contribution Guidelines
-To ensure that your contribution is valuable and aligns with the goals of the repository, please read our (CONTRIBUTING.md)[https://github.com/gdsc-klef/DSA-Projects] for guidelines on how to contribute effectively.
+To ensure that your contribution is valuable and aligns with the goals of the repository, please read our [Contribution Guidelines](https://github.com/gdsc-klef/DSA-Projects/blob/main/CONTRIBUTING.md)  for guidelines on how to contribute effectively.
+
+## Issue Tracking
+We track issues and enhancements using GitHub Issues. If you want to help, please look at the open issues in the Issues section and pick something you'd like to work on. If you’re participating in Hacktoberfest, be sure to check for issues labeled with hacktoberfest.
+
+## Code of Conduct
+We expect all contributors to adhere to our Code of Conduct. Please take a moment to read it.
+
+## Project Structure
+```bash
+dsa-projects/
+│
+├── Python/        # Python implementations of algorithms
+├── C++/           # C++ implementations of algorithms
+├── Java/          # Java implementations of algorithms
+├── JavaScript/    # JavaScript implementations of algorithms
+└── 
+```
+## License
+This repository is licensed under the MIT License. See the LICENSE file for more information.
+
+## Acknowledgments
+Thank you to all our contributors! Together, we're building a valuable collection of algorithms and data structure projects.
+
